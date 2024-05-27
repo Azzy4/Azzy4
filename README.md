@@ -1,5 +1,5 @@
 # Hi, I'm Asma! 👋
-👩‍💻 Final year MEng General Engineering student @ KCL <br/>
+👩‍💻 Final year [MEng General Engineering](https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng) student @ KCL <br/>
 🔭 Passionate about exploring new languages and frameworks <br/>
 🌱 Proficient in Django, React, Python, MATLAB, C, Arduino, HTML, CSS, and Java <br/>
 ⚡ I love crafting beautiful frontend designs and am fluent in using CAD for innovative designs and prototypes <br/> 
